@@ -209,7 +209,6 @@ Model predictions can be incorrect and may be affected by the quality and limita
 
 B.Tech — Computer Science and Engineering
 
-Interests: Machine Learning · Python · Data Science · AI Applications
 
 ---
 
