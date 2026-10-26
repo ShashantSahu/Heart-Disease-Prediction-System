@@ -1,17 +1,18 @@
-# ❤️ Heart Disease Prediction System
+# ❤️ CardioPro — Heart Disease Prediction System
 
-### Machine Learning-Based Heart Disease Risk Prediction
-
-A web-based machine learning project designed to analyze health-related input features and predict the possibility of heart disease using trained classification models. Built with **Python, Streamlit, Pandas, NumPy, and Scikit-learn**.
+### AI-Powered Heart Disease Risk Prediction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Classification-2E8B57?style=for-the-badge" alt="Machine Learning">
+  <a href="YOUR_STREAMLIT_DEPLOYMENT_URL">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_Application-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 
----
+**🌐 Live Website:** [CardioPro — Heart Disease Prediction System
+](https://heart-disease-prediction-system-vsuasxtlermupywpb2xe8v.streamlit.app/)
+
+CardioPro is a machine learning-based web application built using Python, Streamlit, and Scikit-learn to demonstrate heart disease prediction using trained classification models.
+
 
 ## 📌 Overview
 
